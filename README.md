@@ -1,2 +1,2 @@
-scn-skelter
-===========
+Elektrische skelter van scn: codebase
+=====================================
